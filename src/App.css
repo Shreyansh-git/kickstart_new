@@ -1,6 +1,17 @@
-.App {
+/* .App {
+  display: flex;
   text-align: center;
+  justify-content: center;
+  margin: auto;
+  border: 3px solid rgb(134, 235, 215);
+  border-radius:20px;
+  padding: 100px;
+  background: rgb(219, 238, 238);
+  width: 400px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+*/
+
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +47,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
